@@ -13,7 +13,8 @@
   1.通常使用的网络实在TCP/IP协议族的基础上运作的，而其属于HTTP内部的一个子集。
   协议指的是不同软件不同操作系统之间进行通讯的规则。
   2.TCP/IP是互联网相关各协议族的总称
- ![Alt text](F:\Git栾\HTTP-\imgs\1.png "Optional title")
-  3.
+ ![Alt text](imgs/1.png "Optional title")
+ 
+ 3.
   
   
